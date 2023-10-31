@@ -1,0 +1,15 @@
+.thumbnail {
+  width: 160px;
+}
+
+.button {
+  border: none;
+  outline: none;
+  padding: 5px;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.tab-button {
+  background-color: transparent;
+}
